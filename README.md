@@ -4,6 +4,8 @@
 
 **Owner:** Chahyaandida Ishaya
 
+Nyahoba is a native language of Hong Local Government area of Adamawa, State Nigeria
+
 ---
 
 This notebook is prepared to run in Google Colab. Before running heavy training cells, set `Runtime -> Change runtime type -> GPU`.
