@@ -1,0 +1,857 @@
+-DOCSTART- -X- O
+Chiwar -X- _ B-ANIM
+kwa -X- _ O
+də -X- _ O
+shikidi -X- _ O
+. -X- _ O
+
+Ləvari -X- _ B-ANIM
+tə -X- _ O
+səya -X- _ O
+kua -X- _ O
+. -X- _ O
+
+Kəlikədazau -X- _ B-ANIM
+kwa -X- _ O
+wihi -X- _ O
+. -X- _ O
+
+Kanyadəu -X- _ B-ANIM
+Kwa -X- _ O
+da -X- _ O
+biti -X- _ O
+. -X- _ O
+
+Jigəl -X- _ B-ANIM
+kwa -X- _ O
+də -X- _ O
+sar -X- _ O
+. -X- _ O
+
+Fur -X- _ B-ANIM
+NGS -X- _ O
+mandə -X- _ O
+da -X- _ O
+. -X- _ O
+
+Mapəlau -X- _ B-ANIM
+Kwa -X- _ O
+sə -X- _ O
+pwabu -X- _ O
+. -X- _ O
+
+Mabəlang -X- _ B-ANIM
+Kwa -X- _ O
+sə -X- _ O
+həya -X- _ O
+. -X- _ O
+
+Dzang -X- _ B-ANIM
+kwa -X- _ O
+nədəda -X- _ O
+. -X- _ O
+
+Wula -X- _ B-ANIM
+pita -X- _ B-ANIM
+kwa -X- _ O
+də -X- _ O
+hyali -X- _ O
+. -X- _ O
+
+Shan -X- _ B-ANIM
+kwa -X- _ O
+la -X- _ O
+ka'u -X- _ O
+. -X- _ O
+
+Səba -X- _ B-ANIM
+Ku -X- _ O
+tləl -X- _ O
+. -X- _ O
+
+Mbeda -X- _ B-ANIM
+kuw -X- _ O
+Wu'a -X- _ O
+. -X- _ O
+
+Bəlam -X- _ B-ANIM
+kwa -X- _ O
+də -X- _ O
+u'ada -X- _ O
+. -X- _ O
+
+Gadizhi -X- _ B-ANIM
+kwa -X- _ O
+ləla -X- _ O
+. -X- _ O
+
+Ungi -X- _ B-ANIM
+təngaleya -X- _ O
+da -X- _ O
+. -X- _ O
+
+Tla -X- _ B-ANIM
+kwa -X- _ O
+java -X- _ O
+. -X- _ O
+
+Kua -X- _ B-ANIM
+taitanyi -X- _ O
+. -X- _ O
+
+Kətəng -X- _ B-ANIM
+tə -X- _ O
+pənda -X- _ O
+uhi -X- _ O
+. -X- _ O
+
+Dagəla -X- _ B-ANIM
+a -X- _ O
+Ku -X- _ O
+dəma -X- _ O
+. -X- _ O
+
+Dləgwam -X- _ B-ANIM
+kwa -X- _ O
+i -X- _ O
+mai -X- _ O
+. -X- _ O
+
+Kwahri -X- _ B-PER
+tə -X- _ O
+səya -X- _ O
+paturu -X- _ B-ANIM
+. -X- _ O
+
+Ngwa -X- _ O
+tsəu -X- _ O
+Ka -X- _ O
+dlakə -X- _ O
+nya -X- _ O
+bungə -X- _ O
+ula -X- _ O
+gyagya -X- _ B-ANIM
+. -X- _ O
+
+Məkətə -X- _ O
+lyaka -X- _ O
+sasuru -X- _ B-ANIM
+. -X- _ O
+
+Bwabwa -X- _ B-ANIM
+kwa -X- _ O
+həl -X- _ O
+. -X- _ O
+
+Nunaya -X- _ B-PER
+tə -X- _ O
+La'a -X- _ O
+kwakurum -X- _ B-ANIM
+ku -X- _ O
+mishiua -X- _ O
+. -X- _ O
+
+Həya -X- _ B-ANIM
+kwatam -X- _ B-PER
+tə -X- _ O
+takasa -X- _ O
+. -X- _ O
+
+Tayapiti -X- _ B-PER
+wula -X- _ O
+litsa -X- _ B-ANIM
+ku -X- _ O
+laku -X- _ B-LOC
+. -X- _ O
+
+Həm -X- _ B-ANIM
+nya -X- _ O
+dəl -X- _ O
+. -X- _ O
+
+Fwahəu -X- _ B-ANIM
+kwa -X- _ O
+də -X- _ O
+tsar -X- _ O
+. -X- _ O
+
+Gali -X- _ B-ANIM
+ku -X- _ O
+vi -X- _ O
+
+Kwa'ada -X- _ B-PER
+tə -X- _ O
+tagu -X- _ O
+təga -X- _ B-ANIM
+. -X- _ O
+
+Mbətla -X- _ B-ANIM
+kwa -X- _ O
+fəla -X- _ O
+. -X- _ O
+
+Tlatlaya -X- _ B-ANIM
+ku -X- _ O
+gyang -X- _ O
+. -X- _ O
+
+Chari -X- _ B-ANIM
+ku -X- _ O
+danjar -X- _ O
+. -X- _ O
+
+Dadapəu -X- _ B-ANIM
+kwa -X- _ O
+utsa -X- _ O
+. -X- _ O
+
+Shatəi -X- _ B-ANIM
+kwa -X- _ O
+dzam -X- _ O
+da -X- _ O
+. -X- _ O
+
+Wula -X- _ O
+tongali -X- _ B-ANIM
+səyati -X- _ O
+. -X- _ O
+
+Miyana -X- _ B-PER
+la'ati -X- _ O
+dzangula -X- _ B-ANIM
+. -X- _ O
+
+Dər -X- _ B-ANIM
+Ku -X- _ O
+kinyi -X- _ O
+. -X- _ O
+
+Mbujiga -X- _ B-ANIM
+aku -X- _ O
+tsəla -X- _ O
+nyi -X- _ O
+. -X- _ O
+
+Gwamba -X- _ B-ANIM
+kwa -X- _ O
+təla -X- _ O
+gu -X- _ O
+biti -X- _ O
+. -X- _ O
+
+Taku -X- _ B-ANIM
+kwa -X- _ O
+dləgəla -X- _ O
+. -X- _ O
+
+Wadapəl -X- _ B-ANIM
+tə -X- _ O
+tsətə -X- _ O
+fwahəu -X- _ B-ANIM
+. -X- _ O
+
+Zhinakə -X- _ B-ANIM
+kwa -X- _ O
+chidəka -X- _ O
+. -X- _ O
+
+Ngalalakəu -X- _ B-ANIM
+kwa -X- _ O
+ndasə -X- _ O
+ungi -X- _ B-ANIM
+. -X- _ O
+
+Ləbam -X- _ B-ANIM
+tə -X- _ O
+səya -X- _ O
+ləha -X- _ B-ANIM
+. -X- _ O
+
+Wadedirau -X- _ B-ANIM
+tə -X- _ O
+nginda -X- _ O
+ki -X- _ O
+. -X- _ O
+
+Kwadəga -X- _ B-ANIM
+tə -X- _ O
+dzəmtanyi -X- _ O
+. -X- _ O
+
+Kui -X- _ O
+Hong -X- _ B-ANIM
+kwa -X- _ O
+təla -X- _ O
+. -X- _ O
+
+Kui -X- _ O
+fadama -X- _ B-LOC
+rakə -X- _ I-LOC
+kwa -X- _ O
+nau -X- _ O
+tatəm -X- _ O
+. -X- _ O
+
+Mutuku -X- _ B-LOC
+mə -X- _ O
+nga -X- _ O
+bandi -X- _ O
+. -X- _ O
+
+Dəl -X- _ O
+Dugwamba -X- _ B-LOC
+səya -X- _ O
+. -X- _ O
+
+Dabna -X- _ B-LOC
+kui -X- _ O
+kwa -X- _ O
+timi -X- _ O
+. -X- _ O
+
+Garaha -X- _ B-LOC
+tə -X- _ O
+nyi -X- _ O
+na -X- _ O
+ungi -X- _ B-ANIM
+. -X- _ O
+
+Chiwar -X- _ B-ANIM
+tə -X- _ O
+gyo -X- _ O
+Garaha -X- _ B-LOC
+Dutse -X- _ I-LOC
+məa -X- _ O
+. -X- _ O
+
+Tla -X- _ B-ANIM
+tə -X- _ O
+nyadi -X- _ O
+kinging -X- _ B-ANIM
+. -X- _ O
+
+Mabəlang -X- _ B-ANIM
+tə -X- _ O
+səya -X- _ O
+kwa -X- _ B-ANIM
+avu -X- _ O
+Zah -X- _ B-LOC
+. -X- _ O
+
+Bəlam -X- _ B-ANIM
+avu -X- _ O
+kwaprey -X- _ B-LOC
+. -X- _ O
+
+Həm -X- _ O
+abiya -X- _ O
+Daku -X- _ B-LOC
+. -X- _ O
+
+Dazal -X- _ B-LOC
+tə -X- _ O
+səya -X- _ O
+Kwara -X- _ B-ANIM
+. -X- _ O
+
+Səba -X- _ B-ANIM
+aku -X- _ O
+mələm -X- _ O
+kuddah -X- _ B-LOC
+. -X- _ O
+
+Lar -X- _ O
+ana -X- _ O
+bwabwa -X- _ B-ANIM
+kwa -X- _ O
+. -X- _ O
+
+Wadapəl -X- _ B-ANIM
+aku -X- _ O
+mbanga -X- _ O
+. -X- _ O
+
+Mən -X- _ O
+tər -X- _ O
+abiya -X- _ O
+mugwalar -X- _ B-LOC
+. -X- _ O
+
+Shashau -X- _ B-LOC
+bwar -X- _ O
+tsəm -X- _ O
+tongali -X- _ O
+. -X- _ O
+
+Washim -X- _ O
+tə -X- _ O
+nyi -X- _ O
+ana -X- _ O
+gadizhi -X- _ B-ANIM
+. -X- _ O
+
+Kulinyi -X- _ B-LOC
+District -X- _ I-LOC
+həi -X- _ O
+kwakurum -X- _ B-ANIM
+. -X- _ O
+
+Bangshika -X- _ B-LOC
+tə -X- _ O
+səya -X- _ O
+Tla -X- _ B-ANIM
+. -X- _ O
+
+Njir -X- _ O
+Mijili -X- _ B-LOC
+Kwa -X- _ O
+dlə -X- _ O
+taku -X- _ B-ANIM
+. -X- _ O
+
+Mijili -X- _ B-LOC
+kala'a -X- _ O
+kwa -X- _ O
+I -X- _ O
+Shan -X- _ B-ANIM
+. -X- _ O
+
+Njir -X- _ O
+Dalmava -X- _ B-LOC
+tə -X- _ O
+whitsa -X- _ O
+kanyadəu -X- _ B-ANIM
+. -X- _ O
+
+Dəlwachira -X- _ B-LOC
+kwa -X- _ O
+də -X- _ O
+mbətla -X- _ B-ANIM
+. -X- _ O
+
+Dzəga -X- _ B-LOC
+Yarıma -X- _ I-LOC
+kwa -X- _ O
+whitsa -X- _ O
+mabəlang -X- _ B-ANIM
+. -X- _ O
+
+Garavi -X- _ O
+tə -X- _ O
+la -X- _ O
+ka'u -X- _ O
+. -X- _ O
+
+Njir -X- _ O
+Jabba -X- _ B-LOC
+kwa -X- _ O
+tsa -X- _ O
+deng -X- _ O
+. -X- _ O
+
+Gashaka -X- _ B-LOC
+kwa -X- _ O
+Zua -X- _ O
+. -X- _ O
+
+Jalingo -X- _ B-LOC
+kwa -X- _ O
+həra -X- _ O
+. -X- _ O
+
+Kubutava -X- _ B-LOC
+kwa -X- _ O
+tsau -X- _ O
+Wu'a -X- _ O
+. -X- _ O
+
+Kwakwa'ah -X- _ B-LOC
+ndo -X- _ O
+pə -X- _ O
+gula -X- _ O
+. -X- _ O
+
+Kwambula -X- _ B-LOC
+kwa -X- _ O
+zhuli -X- _ O
+. -X- _ O
+
+Njir -X- _ O
+kwatau -X- _ B-LOC
+kwa -X- _ O
+sə -X- _ O
+kalfi -X- _ B-ANIM
+. -X- _ O
+
+Njir -X- _ O
+lugga -X- _ B-LOC
+kwa -X- _ O
+shafili -X- _ O
+. -X- _ O
+
+Makera -X- _ B-LOC
+kwa -X- _ O
+həvi -X- _ O
+. -X- _ O
+
+Maki -X- _ B-LOC
+kwa -X- _ O
+sə -X- _ O
+mapəlau -X- _ B-ANIM
+. -X- _ O
+
+Hyo -X- _ O
+mbalwaha -X- _ B-LOC
+. -X- _ O
+
+Mbəlagyeng -X- _ B-LOC
+kwa -X- _ O
+hər -X- _ O
+val -X- _ O
+. -X- _ O
+
+Məmbəl -X- _ B-LOC
+kwa -X- _ O
+dlə -X- _ O
+dləgwam -X- _ B-ANIM
+. -X- _ O
+
+Mung -X- _ B-LOC
+kwa -X- _ O
+gəzə -X- _ O
+litsa -X- _ B-ANIM
+. -X- _ O
+
+Shiwa -X- _ B-LOC
+kwa -X- _ O
+də -X- _ O
+mwai -X- _ B-ANIM
+. -X- _ O
+
+Gaya -X- _ B-LOC
+District -X- _ I-LOC
+kwa -X- _ O
+zua -X- _ O
+uhi -X- _ O
+. -X- _ O
+
+Gaya -X- _ B-LOC
+Dlang -X- _ I-LOC
+kwa -X- _ O
+fa'a -X- _ O
+mwadadi -X- _ B-ANIM
+. -X- _ O
+
+Fa'a -X- _ B-TIME
+Gaya -X- _ I-TIME
+kwa -X- _ O
+sə -X- _ O
+mbeda -X- _ B-ANIM
+. -X- _ O
+
+Gaya -X- _ B-LOC
+fa'ah -X- _ I-LOC
+kwa -X- _ O
+hər -X- _ O
+ki -X- _ O
+kənda -X- _ O
+. -X- _ O
+
+Jabba -X- _ B-LOC
+Gaya -X- _ I-LOC
+kwa -X- _ O
+səl -X- _ O
+mi -X- _ O
+i -X- _ O
+. -X- _ O
+
+Gaya -X- _ B-LOC
+Səkalmi -X- _ I-LOC
+kwa -X- _ O
+də -X- _ O
+dəhi -X- _ O
+. -X- _ O
+
+Usama -X- _ O
+Gaya -X- _ B-LOC
+Gəu -X- _ I-LOC
+. -X- _ O
+
+Chika -X- _ B-LOC
+lalima -X- _ O
+na -X- _ O
+shili -X- _ O
+. -X- _ O
+
+Gaya -X- _ B-LOC
+Gartsanəu -X- _ I-LOC
+hya -X- _ O
+səya -X- _ O
+həya -X- _ O
+ya -X- _ O
+. -X- _ O
+
+Kura -X- _ O
+Gaya -X- _ O
+kuşatma -X- _ O
+. -X- _ O
+
+Mubula -X- _ O
+hye -X- _ O
+tsa -X- _ O
+gulum -X- _ O
+ya -X- _ O
+. -X- _ O
+
+Utsa -X- _ O
+mbala'u -X- _ O
+sikaluri -X- _ O
+. -X- _ O
+
+Dak -X- _ B-LOC
+siri -X- _ I-LOC
+ana -X- _ O
+Pella -X- _ B-LOC
+District -X- _ I-LOC
+kwa -X- _ O
+pisidi -X- _ O
+. -X- _ O
+
+Pella -X- _ B-LOC
+fa'a -X- _ O
+ma -X- _ O
+gwaja -X- _ O
+. -X- _ O
+
+Pella -X- _ B-LOC
+gwaja -X- _ I-LOC
+səya -X- _ O
+da -X- _ O
+ma -X- _ O
+pwabu -X- _ B-ANIM
+nga -X- _ O
+. -X- _ O
+
+Buzza -X- _ B-LOC
+gəla -X- _ O
+ma -X- _ O
+taku -X- _ B-ANIM
+nga -X- _ O
+. -X- _ O
+
+Dagza -X- _ B-LOC
+whi -X- _ O
+ma -X- _ O
+tsa -X- _ O
+sang -X- _ O
+nga -X- _ O
+. -X- _ O
+
+Səya -X- _ O
+nyi -X- _ O
+ma -X- _ O
+Dəlchidama -X- _ B-LOC
+. -X- _ O
+
+Dzəmah -X- _ B-LOC
+kwa -X- _ O
+dlə -X- _ O
+lidzam -X- _ O
+. -X- _ O
+
+Fachi -X- _ B-LOC
+lali -X- _ O
+ma -X- _ O
+. -X- _ O
+
+Njir -X- _ O
+Gudumiya -X- _ B-LOC
+kwa -X- _ O
+gədlə -X- _ O
+dzang -X- _ B-ANIM
+. -X- _ O
+
+Mbəlnyi -X- _ B-LOC
+kwa -X- _ O
+fel -X- _ O
+wi -X- _ O
+cakəu -X- _ O
+. -X- _ O
+
+Mədləla -X- _ B-LOC
+kwa -X- _ O
+kum -X- _ O
+. -X- _ O
+
+Mətləl -X- _ B-LOC
+kwa -X- _ O
+zwa -X- _ O
+na -X- _ O
+tla -X- _ B-ANIM
+. -X- _ O
+
+Ngalbi -X- _ B-LOC
+həi -X- _ O
+nda -X- _ O
+na -X- _ O
+kum -X- _ O
+kwa -X- _ O
+. -X- _ O
+
+Həi -X- _ O
+nda -X- _ O
+kwa -X- _ O
+i -X- _ O
+tla -X- _ B-ANIM
+nacha -X- _ O
+ngə -X- _ O
+Tasha -X- _ B-LOC
+. -X- _ O
+
+Hindenga -X- _ O
+kwa -X- _ O
+la -X- _ O
+ki -X- _ O
+. -X- _ O
+
+Unding -X- _ B-LOC
+chita -X- _ O
+kulangəu -X- _ O
+. -X- _ O
+
+Wuro -X- _ B-LOC
+nacha -X- _ O
+ngə -X- _ O
+babal -X- _ O
+Taku -X- _ B-ANIM
+. -X- _ O
+
+Gaya -X- _ B-LOC
+Maki -X- _ I-LOC
+kwa -X- _ O
+whi -X- _ O
+tsa -X- _ O
+taku -X- _ B-ANIM
+. -X- _ O
+
+Mən -X- _ O
+tsakətə -X- _ O
+utsa -X- _ O
+njir -X- _ O
+Bokki -X- _ B-LOC
+. -X- _ O
+
+Zhadinyi -X- _ B-LOC
+kwa -X- _ O
+bəla -X- _ O
+jabərangal -X- _ B-ANIM
+. -X- _ O
+
+Uba -X- _ B-LOC
+mələm -X- _ O
+pita -X- _ B-ANIM
+. -X- _ O
+
+Hildi -X- _ B-LOC
+District -X- _ I-LOC
+mələm -X- _ O
+njir -X- _ O
+zua -X- _ O
+yadi -X- _ O
+. -X- _ O
+
+Hildi -X- _ B-LOC
+kwa -X- _ O
+tsa -X- _ O
+tsəla -X- _ O
+. -X- _ O
+
+Kwahri -X- _ B-LOC
+njir -X- _ O
+tsa -X- _ O
+shal -X- _ O
+. -X- _ O
+
+Dzakwa -X- _ B-LOC
+whi -X- _ O
+ta -X- _ O
+hi -X- _ O
+ma -X- _ O
+. -X- _ O
+
+Gashala -X- _ B-LOC
+ha -X- _ O
+ama -X- _ O
+uhi -X- _ O
+. -X- _ O
+
+Husara -X- _ O
+səya -X- _ O
+da -X- _ O
+ma -X- _ O
+ngwaski -X- _ O
+. -X- _ O
+
+Məkəzəl -X- _ B-LOC
+mən -X- _ O
+ki -X- _ O
+lugu -X- _ O
+kum -X- _ O
+kəmən -X- _ O
+. -X- _ O
+
+Məkuving -X- _ B-LOC
+mən -X- _ O
+ki -X- _ O
+pəli -X- _ O
+. -X- _ O
+
+Njerri -X- _ B-LOC
+tsagu -X- _ O
+ma -X- _ O
+kum -X- _ O
+nga -X- _ O
+. -X- _ O
+
+Dlang -X- _ B-LOC
+mən -X- _ O
+gwa -X- _ O
+sə -X- _ O
+fur -X- _ O
+. -X- _ O
+
+Hyema -X- _ B-LOC
+mən -X- _ O
+ki -X- _ O
+tla -X- _ O
+a -X- _ O
+dzu -X- _ O
+. -X- _ O
+
+Hyama -X- _ B-LOC
+mən -X- _ O
+pa -X- _ O
+ki -X- _ O
+kəmən -X- _ O
+. -X- _ O
+
+Chimda -X- _ B-PER
+tə -X- _ O
+yi -X- _ O
+motaku -X- _ B-LOC
+
+Pwabu -X- _ B-ANIM
+tə -X- _ O
+ngaləya -X- _ O
+taima -X- _ B-PER
+a -X- _ O
+hyi -X- _ O
+kwapor -X- _ B-LOC
+. -X- _ O
+
+Kwatam -X- _ B-PER
+tə -X- _ O
+hyi -X- _ O
+Zivi -X- _ B-LOC
+. -X- _ O
+

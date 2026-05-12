@@ -1,52 +1,3 @@
-Chiwar kwa də shikidi.
-Ləvari tə səya kua.
-Kəlikədazau kwa wihi.
-Kanyadəu Kwa da biti.
-Jigəl kwa də sar.
-Fur NGS mandə da.
-Mapəlau Kwa sə pwabu.
-Mabəlang Kwa sə həya.
-Dzang kwa nədəda.
-Wula pita kwa də hyali.
-Shan kwa la ka'u.
-Səba Ku tləl.
-Mbeda kuw Wu'a.
-Bəlam kwa də u'ada.
-Gadizhi kwa ləla.
-Ungi təngaleya da.
-Tla kwa java.
-Kua taitanyi.
-Kətəng tə pənda uhi.
-Dagəla a Ku dəma.
-Dləgwam kwa i mai.
-Kwahri tə səya paturu.
-Ngwa tsəu Ka dlakə nya bungə ula gyagya.
-Məkətə lyaka sasuru.
-Bwabwa kwa həl.
-Nunaya tə La'a kwakurum ku mishiua.
-Həya kwatam tə takasa.
-Tayapiti wula litsa ku laku.
-Həm nya dəl.
-Fwahəu kwa də tsar.
-Gali ku vi
-Kwa'ada tə tagu təga.
-Mbətla kwa fəla.
-Tlatlaya ku gyang.
-Chari ku danjar.
-Dadapəu kwa utsa.
-Shatəi kwa dzam da.
-Wula tongali səyati.
-Miyana la'ati dzangula.
-Dər Ku kinyi.
-Mbujiga aku tsəla nyi.
-Gwamba kwa təla gu biti.
-Taku kwa dləgəla.
-Wadapəl tə tsətə fwahəu.
-Zhinakə kwa chidəka.
-Ngalalakəu kwa ndasə ungi.
-Ləbam tə səya ləha.
-Wadedirau tə nginda ki.
-Kwadəga tə dzəmtanyi.
 Kui Hong kwa təla.
 Kui fadama rakə kwa nau tatəm.
 Mutuku mə nga bandi.
@@ -136,3 +87,92 @@ Hyama mən pa ki kəmən.
 Chimda tə yi motaku 
 Pwabu tə ngaləya taima a hyi kwapor.
 Kwatam tə hyi Zivi.
+Pabeda njir Hong.
+Pabeda njir Fadama Reke.
+Pabeda njir Mutuku.
+Pabeda njir Dugwamba District.
+Pabeda njir Dabna.
+Pabeda njir Garaha.
+Pabeda njir Garaha Dutse.
+Pabeda njir Kinging.
+Pabeda njir Zah.
+Pabeda njir Kwaprey.
+Pabeda njir Daku.
+Pabeda njir Dazal.
+Pabeda njir Kuddah.
+Pabeda njir Lar.
+Pabeda njir Mbanga.
+Pabeda njir Mugwalar.
+Pabeda njir Shashau.
+Pabeda njir Washim.
+A vu Kulinyi District.
+A vu Bangshika.
+A vu Mijili.
+A vu Miljili.
+A vu Kala'a.
+A vu Dulmava.
+A vu Dulwachira.
+A vu Dzegayerima.
+A vu Garavi.
+A vu Gashaka.
+A vu Jabba.
+A vu Jalingo.
+A vu Kubtava.
+A vu Kwakwa'ah.
+A vu Kwambula.
+A vu Kwatau.
+A vu Lugga.
+A vu Makera.
+Nda shi Maki.
+Nda shi Mbalwaha.
+Nda shi Mbulagyeng.
+Nda shi Mombol.
+Nda shi Mung.
+Nda shi Shiwa.
+Nda shi Gaya District.
+Nda shi Gaya Thlang.
+Nda shi Fa’ah Gaya.
+Nda shi Gaya-Fa'a.
+Nda shi Gaya Jabba.
+Nda shi Gaya Maki.
+Nda shi Gaya Sikalmi.
+Nda shi Gaya Gou.
+Nda shi Chika.
+Nda shi Gay Gartsanu.
+Nda shi Kura Gay.
+Nda shi Mubula.
+Thləmər mələm kənda Sikaluri.
+Thləmər mələm kənda Daktsi & Pella District.
+Thləmər mələm kənda Pella.
+Thləmər mələm kənda Pella Gwaja.
+Thləmər mələm kənda Buzza.
+Thləmər mələm kənda Dagza.
+Thləmər mələm kənda Dulchidama.
+Thləmər mələm kənda Dzumah.
+Thləmər mələm kənda Fachi.
+Thləmər mələm kənda Gudumiya.
+Thləmər mələm kənda Mbu Inyi.
+Thləmər mələm kənda Midillah.
+Thləmər mələm kənda Mothol.
+Thləmər mələm kənda Ngalbi.
+Thləmər mələm kənda Tasha Hindenga.
+Thləmər mələm kənda Uding.
+Thləmər mələm kənda Wuro Bokki.
+Thləmər mələm kənda Zhedinyi.
+Yo təra yi Uba.
+Yo təra yi Hildi District.
+Yo təra yi Hildi.
+Yo təra yi Kwarhi.
+Yo təra yi Uba.
+Yo təra yi Dzakwa.
+Yo təra yi Gashala.
+Yo təra yi Husara.
+Yo təra yi Migzil.
+Yo təra yi Mukuving.
+Yo təra yi Njerri.
+Yo təra yi Ndlang.
+Yo təra yi Hyema.
+Yo təra yi Hyama.
+Yo təra yi Motaku.
+Yo təra yi Kwapor.
+Yo təra yi Zivi.
